@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_activity__main">Weather</string>
+    <string name="temperature">Temperature: </string>
+    <string name="wind_speed">Wind Speed: </string>
+    <string name="wind_degree">Wind Direction: </string>
+    <string name="rain">Rain: </string>
+</resources>
