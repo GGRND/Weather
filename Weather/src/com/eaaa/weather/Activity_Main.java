@@ -1,6 +1,5 @@
 package com.eaaa.weather;
 
-import eaaa.weather.R;
 import android.app.Activity;
 import android.os.AsyncTask;
 import android.os.Bundle;
